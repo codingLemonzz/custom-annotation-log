@@ -1,5 +1,9 @@
 # 大厂面试项目亮点——使用注解优雅记录操作日志
 
+> 博客地址： [Coding Lemon's blog](http://www.codinglemon.cn/)
+所有文章会第一时间在博客更新！
+
+
 同学们好，最近在思考如何在面试中体现自己的项目亮点时，看到了3y大佬的文章，文章链接如下：
 > [Java3y——如何使用注解优雅的记录操作日志](https://mp.weixin.qq.com/s/Ucu2eVML2C4cAu100z_YSw)
 
