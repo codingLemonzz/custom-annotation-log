@@ -536,7 +536,7 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 # 4. 如何在自己的项目中使用
 
 ## 4.1 下载jar包，放入项目
-首先将[annolog-1.0.0.jar](http://www.codinglemon.cn/upload/2021/12/annolog-1.0.0-8889ba88d1db419a86da1f28215e12b1.jar) 下载到本地，在自己项目的根目录下创建名为lib的文件夹，并将jar包放入，如下：
+首先将[annolog-1.0.0.jar](http://www.codinglemon.cn/upload/2021/12/annolog-1.0.0-8889ba88d1db419a86da1f28215e12b1.jar) (右键复制链接地址，然后在浏览器中粘贴，回车)下载到本地，在自己项目的根目录下创建名为lib的文件夹，并将jar包放入，如下：
 
 ![image.png](http://www.codinglemon.cn/upload/2021/12/image-cce3fae305424cec9a957111b1ff199d.png)
 
