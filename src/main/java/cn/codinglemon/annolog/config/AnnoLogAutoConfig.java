@@ -8,5 +8,5 @@ import org.springframework.context.annotation.ComponentScan;
  */
 @ComponentScan("cn.codinglemon.annolog")
 public class AnnoLogAutoConfig {
-    //git测试
+
 }
